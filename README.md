@@ -1,4 +1,4 @@
-<img width="1810" height="1017" alt="image" src="https://github.com/user-attachments/assets/2f46b8fe-2fce-467c-997c-41eecd5a8e73" /><div align="center">
+<div align="center">
 
 # ⚙️ PRAKTIKUM CAD CAM
 
