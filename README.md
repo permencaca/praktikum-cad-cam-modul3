@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1810" height="1017" alt="image" src="https://github.com/user-attachments/assets/2f46b8fe-2fce-467c-997c-41eecd5a8e73" /><div align="center">
 
 # ⚙️ PRAKTIKUM CAD CAM
 
@@ -45,7 +45,7 @@ Repository ini berisi:
 # 🖼 Preview Hasil Desain
 
 **YouTube:**  
-[![Praktikum CAD CAM](https://i9.ytimg.com/vi_webp/Eks7B2eZwm4/mq1.webp?sqp=CLTRis0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF4gZShXMA8=&rs=AOn4CLC72wAQ3Y2b3ETloExkR3a6ai3Www)](https://youtu.be/Eks7B2eZwm4)
+[![Praktikum CAD CAM](https://i9.ytimg.com/vi_webp/Am5JgAAcUJI/maxresdefault.webp?v=69aa2641&sqp=COTLqM0G&rs=AOn4CLDm90W9hvUD-PJk0kmxXPjNQrvjJQ)](https://youtu.be/Am5JgAAcUJI)
 
 
 ---
